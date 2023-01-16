@@ -6,4 +6,6 @@ Men yana biror narsa qilishum kerak tushunarlimi?
 yangi branch ochdim
 
 
-`code`
+***
+
+---
