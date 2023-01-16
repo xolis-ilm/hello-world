@@ -6,4 +6,5 @@ Men yana biror narsa qilishum kerak tushunarlimi?
 yangi branch ochdim
 
 
-### My Great Heading {#custom-id}
+term
+: definition
