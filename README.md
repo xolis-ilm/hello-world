@@ -6,4 +6,8 @@ Men yana biror narsa qilishum kerak tushunarlimi?
 yangi branch ochdim
 
 
-[sherali.uz](https://www.w3schools.com)
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
