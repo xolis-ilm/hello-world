@@ -8,6 +8,6 @@ yangi branch ochdim
 
 
 | Syntax | Description |
-| ----------- | ----------- |
+| ----------- | -------- |
 | Header | Title |
 | Paragraph | Text |
