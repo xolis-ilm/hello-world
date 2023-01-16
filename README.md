@@ -6,4 +6,4 @@ Men yana biror narsa qilishum kerak tushunarlimi?
 yangi branch ochdim
 
 
-![alt text](image.jpg)
+[title](https://www.example.com)
