@@ -6,6 +6,4 @@ Men yana biror narsa qilishum kerak tushunarlimi?
 yangi branch ochdim
 
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+That is so funny! :joy:
