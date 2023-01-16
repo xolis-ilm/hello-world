@@ -6,5 +6,6 @@ Men yana biror narsa qilishum kerak tushunarlimi?
 yangi branch ochdim
 
 
-> blockquote
-> sherali
+1. First item
+2. Second item
+3. Third item
