@@ -6,4 +6,4 @@ Men yana biror narsa qilishum kerak tushunarlimi?
 yangi branch ochdim
 
 
-[title](https://www.example.com)
+[sherali.uz](https://www.w3schools.com)
