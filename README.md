@@ -6,5 +6,4 @@ Men yana biror narsa qilishum kerak tushunarlimi?
 yangi branch ochdim
 
 
-
-H~2~O
+X^2^
