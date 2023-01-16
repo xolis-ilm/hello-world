@@ -7,9 +7,7 @@ yangi branch ochdim
 
 
 
-| Syntax | Description |
-| ----------- | -------- |
-| Header | Title |
-| Paragraph | Text |
-| Yuldosh | Text |
-| Behzpd | Text |
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
