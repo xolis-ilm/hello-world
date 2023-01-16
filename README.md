@@ -11,3 +11,5 @@ yangi branch ochdim
 | ----------- | -------- |
 | Header | Title |
 | Paragraph | Text |
+| Yuldosh | Text |
+| Behzpd | Text |
