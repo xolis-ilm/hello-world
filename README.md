@@ -6,11 +6,6 @@ Men yana biror narsa qilishum kerak tushunarlimi?
 yangi branch ochdim
 
 
+Here's a sentence with a footnote. [^1]
 
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+[^1]: This is the footnote.
