@@ -7,4 +7,4 @@ yangi branch ochdim
 
 
 
-H^2
+H^2^
